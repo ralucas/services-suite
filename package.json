@@ -1,0 +1,19 @@
+{
+  "name": "services-suite",
+  "version": "1.0.0",
+  "description": "Suite of services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ralucas/services-suite.git"
+  },
+  "author": "R.A. Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralucas/services-suite/issues"
+  },
+  "homepage": "https://github.com/ralucas/services-suite"
+}
