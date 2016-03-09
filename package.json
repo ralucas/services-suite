@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ralucas/services-suite/issues"
   },
-  "homepage": "https://github.com/ralucas/services-suite"
+  "homepage": "https://github.com/ralucas/services-suite",
+  "dependencies": {
+    "redis-service-client": "^0.0.2",
+    "twitter-service-client": "^0.0.2"
+  }
 }
